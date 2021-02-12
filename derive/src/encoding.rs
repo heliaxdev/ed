@@ -1,3 +1,4 @@
+extern crate proc_macro;
 use quote::quote;
 use syn::*;
 

@@ -1,3 +1,4 @@
+extern crate proc_macro;
 mod encoding;
 
 #[proc_macro_derive(Encode)]
